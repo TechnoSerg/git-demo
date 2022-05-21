@@ -7,4 +7,5 @@ hello gogo
 yeyey some strings
 GAP!
 
-WTD WHE IS COMMUT??
+more contant !!
+GIT RESET COMMIT!
