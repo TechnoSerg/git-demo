@@ -8,5 +8,8 @@ yeyey some strings
 GAP!
 
 more contant !!
-
+<<<<<<< HEAD
 GIT RESET COMMIT!
+=======
+GIT RESET COMMIT!
+>>>>>>> 83b2cce4f4a88112dd95801364c8af03c59ad47d
