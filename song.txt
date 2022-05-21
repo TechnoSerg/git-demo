@@ -6,3 +6,6 @@ AYAYAYAYAYAYA
 hello gogo
 yeyey some strings
 GAP!
+
+more contant !!
+GIT RESET COMMIT!
